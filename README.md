@@ -14,7 +14,7 @@
 * 🎓 B.E CSE (Data Science)
 * 📊 Focused on Data Analytics & Machine Learning
 * 💡 Strong interest in solving real-world data problems
-* 🌱 Currently learning **Advanced SQL, Power BI, ML Models**
+* 🌱 Currently learning **Advanced SQL, Power BI, ML Models, python**
 * 🎯 Goal: Data Analyst / Data Scientist role
 
 ---
@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmiyan321&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -63,11 +63,11 @@
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmiyan321&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sowmiyan321&theme=tokyo-night"/>
 </p>
 
 ---
@@ -91,13 +91,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="www.linkedin.com/in/sowmiyan-i-84436b317">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:your-isowmiyan4@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Sowmiyan321">
     <img src="https://img.icons8.com/glyph-neue/48/github.png"/>
   </a>
 </p>
@@ -107,6 +107,6 @@
 ## ⚡ Fun Animation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=75"/>
 </p>
 
