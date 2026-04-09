@@ -6,3 +6,6 @@
 - 💻 Currently working on real-time data projects
 - 🌱 Learning Python, SQL, Power BI
 - 📫 How to reach me: your-email@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Future+Data+Analyst;Python+Developer;ML+Enthusiast&center=true&width=500&height=50">
+</p>
