@@ -107,5 +107,5 @@
 ## ⚡ Fun Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png">
 </p>
