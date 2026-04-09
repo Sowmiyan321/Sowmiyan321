@@ -40,7 +40,7 @@
 <p>
   <img src="https://img.icons8.com/color/48/pandas.png"/>
   <img src="https://img.icons8.com/color/48/numpy.png"/>
-  <img src="https://img.icons8.com/color/48/scikit-learn.png"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png"/>
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -54,7 +54,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sowmiyan321&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmiyan321&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
@@ -107,5 +107,5 @@
 ## ⚡ Fun Animation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer&text=Keep%20Building%20🚀&fontColor=ffffff&fontSize=24"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
