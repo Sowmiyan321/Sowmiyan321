@@ -91,7 +91,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/sowmiyan-i-84436b317">
+  <a href="https://www.linkedin.com/in/sowmiyan-i-84436b317/">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
   <a href="mailto:your-isowmiyan4@gmail.com">
@@ -107,6 +107,5 @@
 ## ⚡ Fun Animation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer&text=Keep%20Building%20🚀&fontColor=ffffff&fontSize=24"/>
 </p>
-
